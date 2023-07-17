@@ -1,0 +1,27 @@
+Working with Docker, Docker Commands, Docker Images&Containers
+
+docker –version
+
+docker pull rocker/verse
+
+docker login
+
+login
+usermane
+pass
+
+docker build -t rshekhar0210/webapp .
+
+Build an image then push it to docker and run it
+Command : to create docker file
+
+cat > Dockerfile <<EOF
+FROM busybox
+CMD echo "Hello world! This is my first Docker image."
+EOF
+
+docker images
+
+docker push rshekhar0210/webapp .
+
+docker run rshekhar0210/webapp

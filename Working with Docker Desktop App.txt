@@ -1,0 +1,25 @@
+***.Net SDK Download Link:***
+
+https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install
+
+***Docker desktop Download Link:***
+
+https://www.docker.com/products/docker-desktop/
+
+Working with Docker Desktop App
+
+Run hello-world on CMD
+
+docker run -p 8080:8080 dotnetcoreservices/hello-world
+
+Lists **all the running Docker containers** on the host machine
+
+docker ps
+
+Hello world
+
+curl http://localhost:8080/will/it/blend?
+
+Kill running process(Container ID)
+
+docker kill (Container ID)

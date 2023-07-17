@@ -1,0 +1,50 @@
+Installing Software Packages in Docker
+CLI
+
+apt-get -y update
+apt-get -y install firefox
+apt-get -y vim
+
+working with docker volume
+Container volumes
+
+create
+docker volume
+docker volume create myvol1
+docker volume ls
+
+docker volume inspect myvol1
+
+remove
+docker volume rm myvol1
+
+remove all
+docker volume prune
+
+Networks
+
+docker nnetwork COMMAND
+
+docker network connect
+
+To create
+
+docker network create
+
+disconnect
+
+docker network disconnect
+
+detailed information on one or more networks
+
+docker network inspect
+
+list
+docker network ls
+
+remove all 
+docker network prune
+
+remove one 
+
+docker network rm
