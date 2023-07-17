@@ -1,0 +1,39 @@
+Creating Microservice with ASP.NET Core
+
+two command prompts
+
+cmd 1
+
+dotnet run
+
+cmd 2
+
+curl --insecure https://localhost:5001/teams
+
+To create new team
+
+curl --insecure -H "Content-Type:application/json" –X POST –d "{\"id\":\"e52baa63-d511-417e-9e54-7aab04286281\", \"name\":\"KC\"}" https://localhost:5001/teams
+
+To create one more new team
+
+curl --insecure -H "Content-Type:application/json" –X POST –d "{\"id\":\"e12baa63-d511-417e-9e54-7aab04286281\", \"name\":\"MSC Part1\"}" https://localhost:5001/teams
+
+To get all teams
+
+curl --insecure https://localhost:5001/teams
+
+to get single team with team-id as parameter
+
+curl --insecure https://localhost:5001/teams/e52baa63-d511-417e-9e54-7aab04286281
+
+to update team details
+
+curl --insecure -H "Content-Type:application/json" –X PUT –d "{\"id\":\"e52baa63-d511-417e-9e54-7aab04286281\", \"name\":\"KC IT DEPT\"}" https://localhost:5001/teams/e52baa63-d511-417e-9e54-7aab04286281
+
+To delete team
+
+curl --insecure -H "Content-Type:application/json" –X DELETE https://localhost:5001/teams/e52baa63-d511-417e-9e54-7aab04286281
+
+With get all teams now it shows only one team
+
+curl --insecure https://localhost:5001/teams

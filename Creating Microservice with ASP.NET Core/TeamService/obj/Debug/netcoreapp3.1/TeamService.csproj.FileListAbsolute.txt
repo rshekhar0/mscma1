@@ -1,0 +1,70 @@
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.csprojAssemblyReference.cache
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfoInputs.cache
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfo.cs
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.csproj.CoreCompileInputs.cache
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.MvcApplicationPartsAssemblyInfo.cache
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\appsettings.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.exe
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.deps.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.dev.json
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.dll
+F:\tmp\MA\P6\TeamService\bin\Debug\netcoreapp3.1\TeamService.pdb
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.RazorTargetAssemblyInfo.cache
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.Manifest.cache
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.xml
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.dll
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.pdb
+F:\tmp\MA\P6\TeamService\obj\Debug\netcoreapp3.1\TeamService.genruntimeconfig.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.StaticWebAssets.xml
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.exe
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.deps.json
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.json
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.dev.json
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.dll
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\bin\Debug\netcoreapp3.1\TeamService.pdb
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.csproj.AssemblyReference.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfoInputs.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfo.cs
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.csproj.CoreCompileInputs.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.MvcApplicationPartsAssemblyInfo.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.Manifest.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.Pack.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TeamService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.RazorTargetAssemblyInfo.cache
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.dll
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.pdb
+E:\Msc IT Part_1\SEM_2\Practical\Practical_BscIT_MscIT_Ninad-main\Practical_BscIT_MscIT_Ninad-main\MscIT\Semester 2\MicroservicesArchitecture\Practical 6\TeamService\obj\Debug\netcoreapp3.1\TeamService.genruntimeconfig.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.StaticWebAssets.xml
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.exe
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.deps.json
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.json
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.runtimeconfig.dev.json
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.dll
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\bin\Debug\netcoreapp3.1\TeamService.pdb
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.csproj.AssemblyReference.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfoInputs.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.AssemblyInfo.cs
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.csproj.CoreCompileInputs.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.MvcApplicationPartsAssemblyInfo.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.Manifest.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\TeamService.StaticWebAssets.Pack.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TeamService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TeamService.props
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.RazorTargetAssemblyInfo.cache
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.dll
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.pdb
+E:\Msc IT Part_1\SEM_2\Practical\Rahul\MA\Creating Microservice with ASP.NET Core\TeamService\obj\Debug\netcoreapp3.1\TeamService.genruntimeconfig.cache
